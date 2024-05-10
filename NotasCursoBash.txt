@@ -1,0 +1,8 @@
+bash shebang: #! indica al sistema operativo que interprete utilizar para analizar el resto del archivo
+Ejemplos: 
+#!/bin/bash - Se utiliza para analizar el archivo.bash
+#!/usr/bin/env perl - Utiliza el comando para encontrar la ruta de acceso al ejecutable.envperl
+#!/usr/bin/python Ejecuta el archivo mediante el binario.python
+> : anexar a un archivo, permite capturar la salida de un comando y enviarla como 
+entrada a otro comando o archivo.
+
